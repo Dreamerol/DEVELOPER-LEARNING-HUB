@@ -1,6 +1,6 @@
 <div align="center">
 
-# TOTAL GITHUB PROJECTS COURSES
+# DEVELOPER LEARNING HUB
 
 </div>
 
