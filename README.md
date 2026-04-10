@@ -36,30 +36,6 @@
 ---
 
 
-
-## 🟢 PROJECT DASHBOARD
-
-[![Physics Simulation](https://via.placeholder.com/220x140/0f0c29/ffffff?text=Physics+Simulation)](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)
-
-[![Neural Networks](https://via.placeholder.com/220x140/302b63/ffffff?text=Neural+Networks)](https://github.com/Dreamerol/NEURAL-NETWORKS)
-
-[![Backend Systems](https://via.placeholder.com/220x140/1f6feb/ffffff?text=Backend+Systems)](https://github.com/Dreamerol/PYTHON-WEB-ADVANCED)
-
-[![Algorithms](https://via.placeholder.com/220x140/00c853/ffffff?text=Algorithms)](https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS)
-
-[![Databases](https://via.placeholder.com/220x140/336791/ffffff?text=Databases)](https://github.com/Dreamerol/DATABASES-SQL)
-
-[![Linux Toolkit](https://via.placeholder.com/220x140/fcc624/000000?text=Linux+Toolkit)](https://github.com/Dreamerol/LINUX-PRO-TOOLKIT)
-
-[![Math Engine](https://via.placeholder.com/220x140/ff69b4/ffffff?text=Math+Engine)](https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS)
-
-[![Game Logic](https://via.placeholder.com/220x140/8a2be2/ffffff?text=Game+Logic)](https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME)
-
-[![ML Analysis](https://via.placeholder.com/220x140/ff4081/ffffff?text=ML+Analysis)](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS)
-
----
-
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
