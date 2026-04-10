@@ -281,6 +281,16 @@ Not just a collection of code, but a continuous engineering process turning idea
 ---
 
 
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+
+---
+
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=50&fontColor=ffffff"/>
@@ -290,17 +300,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 </div>
 
 
-----
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-
----
 
 
 
