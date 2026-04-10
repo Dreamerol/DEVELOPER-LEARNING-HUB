@@ -282,11 +282,11 @@ Not just a collection of code, but a continuous engineering process turning idea
 ---
 
  
-<h3 align="center">⭐ <em>Feel free to explore the projects and give a star if you find them interesting ⭐</em></h3>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1800&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=INITIALIZING+SYSTEM...;LOADING+AI+MODULES...;COMPILING+ALGORITHMS...;DEVELOPER+PORTFOLIO+READY" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=7DF9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems;AI+%7C+ML+%7C+Backend+Engineering;Mathematics+Meets+Code" />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=20"/>
 
 </div>
 
