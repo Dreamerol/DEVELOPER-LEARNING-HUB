@@ -2,6 +2,8 @@
 
 # DEVELOPER LEARNING HUB
 
+<h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
+
 A structured collection of programming projects, systems, and learning experiments across multiple domains: AI, algorithms, databases, physics simulation, and software engineering.
 
 </div>
