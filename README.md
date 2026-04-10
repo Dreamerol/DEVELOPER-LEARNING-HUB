@@ -6,13 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Dreamerol/Dreamerol/blob/d3753b1944325b5ed189b96163b02c6677bc7c4f/PLACEBO33.jpg?raw=true"
-       style="width:100%; max-width:100%;" />
-</p>
-
-
-
+![](https://github.com/Dreamerol/Dreamerol/blob/6ed4afdff5c8df516f7f7b6b618a8c40dd4fefa2/DATA.jpg)
 
 
 ---
