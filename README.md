@@ -267,17 +267,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-</p>
-
-
----
-
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
@@ -367,6 +356,21 @@ Not just a collection of code, but a continuous engineering process turning idea
 </p>
 
 </div>
+
+
+
+---
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</p>
+
+
+---
+
 
 
 
