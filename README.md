@@ -114,12 +114,11 @@
 
 ---
 
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=DEVELOPER%20PORTFOLIO&fontSize=40&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=Systems+Engineer;AI+%7C+Algorithms+%7C+Simulation+%7C+Backend;Building+scalable+computational+systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEMS+ENGINEER;AI+%7C+ALGORITHMS+%7C+SIMULATION+%7C+BACKEND;BUILDING+SCALABLE+SYSTEMS+AND+INTELLIGENT+SOLUTIONS" />
 
 
 </div>
