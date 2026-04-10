@@ -141,24 +141,6 @@ transforms data, and scales into intelligent systems.
   <img src="https://img.shields.io/badge/Linux%20Toolkit-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </a>
 
----
-
-## 🔵 PINNED PROJECT STRATEGY
-
-🚀 PHYSICS-SIMULATION-SYSTEMS → Core systems thinking & modeling  
-🤖 NEURAL-NETWORKS → AI / machine learning foundation  
-🌐 PYTHON-WEB-ADVANCED → Backend engineering & APIs  
-🧮 DATA-STRUCTURES-AND-ALGORITHMS → CS fundamentals mastery  
-🗄️ DATABASES-SQL → Data modeling & relational systems  
-🐧 LINUX-PRO-TOOLKIT → Systems-level engineering skills  
-
----
-
-## 📊 GITHUB STATS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamerol&layout=compact&theme=radical)
 
 ---
 
