@@ -188,7 +188,7 @@
 ---
 
 
-🔹 𝗥𝗘𝗣𝗢𝗦𝗜𝗧𝗢𝗥𝗜𝗘𝗦 & 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
+# 🟢 REPOSITORIES & TECH STACK
 
 ⚙️ 𝗣𝗛𝗬𝗦𝗜𝗖𝗦-𝗦𝗜𝗠𝗨𝗟𝗔𝗧𝗜𝗢𝗡-𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
 🔗 https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS  
