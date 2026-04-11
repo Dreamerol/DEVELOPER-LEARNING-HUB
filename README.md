@@ -277,7 +277,6 @@
 ---
 
 
----
 
 # 🟢 REPOSITORIES & TECH STACK
 
@@ -325,6 +324,10 @@
 🔗 https://github.com/Dreamerol/MODERN-CPP-CODE  
 → C++ • STL • Memory  
 
+🗄️ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦-𝗦𝗤𝗟  
+🔗 https://github.com/Dreamerol/DATABASES-SQL  
+→ SQL • Queries  
+
 </td>
 
 <td valign="top" width="50%">
@@ -361,10 +364,6 @@
 🔗 https://github.com/Dreamerol/POCKER-CONSOLE-GAME  
 → C++ • Algorithms  
 
-🗄️ 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦-𝗦𝗤𝗟  
-🔗 https://github.com/Dreamerol/DATABASES-SQL  
-→ SQL • Queries  
-
 🔧 𝗗𝗦𝗔  
 🔗 https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS  
 → C++ • Structures  
@@ -376,8 +375,6 @@
 </td>
 </tr>
 </table>
-
----
 
 
 ---
