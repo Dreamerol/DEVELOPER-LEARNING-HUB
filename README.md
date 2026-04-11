@@ -315,7 +315,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dreamerol)
 
 
 
