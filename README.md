@@ -1,6 +1,6 @@
 <div align="center">
 
-# SOFTWARE PORTFOLIO - DEV WORKSHOP
+# 🟢 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢
 
 <h2 align="center"> <strong><em>Turning data into insights & Making a difference through real-world solutions</em></strong> </h2>
 
@@ -117,7 +117,7 @@
 
 
 
-# 🟢 REPOSITORIES & TECH STACK
+ REPOSITORIES & TECH STACK
 
 - ⚙️ **[PHYSICS-SIMULATION-SYSTEMS](https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS)** — Python • NumPy • SciPy • Matplotlib • Numerical Methods  
 
