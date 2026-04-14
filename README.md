@@ -213,7 +213,7 @@
       <img src="https://github.com/Dreamerol/Dreamerol/raw/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg"
            width="250" height="150" style="border-radius:12px;" />
     </a>
-    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗕𝗢𝗢𝗞 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
+    <br>𝗗𝗝𝗔𝗡𝗚𝗢 𝗖𝗔𝗧𝗔𝗟𝗢𝗚 𝗔𝗣𝗣
   </td>
 
   <td align="center" width="260" style="padding:10px;">
@@ -257,7 +257,7 @@
       <img src="https://github.com/Dreamerol/Dreamerol/blob/bc7f5aaa38e866e26705c13db8f3b822bb0dd282/PLACEBO777.JPG"
            width="250" height="150" style="border-radius:12px;" />
     </a>
-    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 - 𝗗𝗔𝗧𝗔
+    <br>𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 
   </td>
 
   <td align="center" width="260" style="padding:10px;">
