@@ -424,8 +424,100 @@
 
 </tr>
 
-</table>
+<tr>
 
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS" width="100%"><br>
+<b>📊 PLACEBO-ML</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/DATABASES-SQL">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/DATABASES-SQL" width="100%"><br>
+<b>🗄️ SQL-DB</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/OBJECT-ORIENTED-PROGRAMMING">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/OBJECT-ORIENTED-PROGRAMMING" width="100%"><br>
+<b>🧩 OOP</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/DELIVERY-DATA-SQL-SYSTEM" width="100%"><br>
+<b>📦 SQL-DELIVERY</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/OOP-PRINCIPLES-DESIGN">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/OOP-PRINCIPLES-DESIGN" width="100%"><br>
+<b>🏗️ OOP-DESIGN</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/DISCRETE-MATH-AUTOMATA-CONVERTER" width="100%"><br>
+<b>🤖 AUTOMATA</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/MOODLE-SYSTEM-EDUCATIONAL-PLATFORM" width="100%"><br>
+<b>🎓 MOODLE</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS" width="100%"><br>
+<b>🧮 JAVA-GUI</b>
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/RUMMIKUB-CONSOLE-GAME">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/RUMMIKUB-CONSOLE-GAME" width="100%"><br>
+<b>🎮 RUMMIKUB</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/POCKER-CONSOLE-GAME">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/POCKER-CONSOLE-GAME" width="100%"><br>
+<b>🃏 POKER</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS">
+<img src="https://opengraph.githubassets.com/1/Dreamerol/DATA-STRUCTURES-AND-ALGORITHMS" width="100%"><br>
+<b>🔧 DSA</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<!-- empty slot for perfect 20 alignment -->
+</td>
+
+</tr>
+
+</table>
 
 
 ---
