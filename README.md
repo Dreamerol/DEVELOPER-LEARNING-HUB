@@ -306,6 +306,8 @@
 
 
 
+
+
 <table align="center">
 <tr>
 
@@ -325,7 +327,6 @@
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED"><b>🌐 PY-WEB</b></a><br><br>
 <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS"><b>🔢 POLYNOMIAL</b></a><br><br>
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a><br><br>
-<a href="https://github.com/Dreamerol/MODERN-CPP-CODE"><b>⚙️ MODERN-CPP</b></a><br><br>
 
 </td>
 
@@ -351,6 +352,7 @@
 
 </tr>
 </table>
+
 
 ---
 
