@@ -305,6 +305,11 @@
 
 <td valign="top" width="50%" align="center">
 
+<table align="center">
+<tr>
+
+<td valign="top" width="50%" align="center">
+
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">⚙️ <b>𝗣𝗛𝗬𝗦𝗜𝗖𝗦-𝗦𝗜𝗠</b></a><br>
 🔗 PHYSICS-SIM<br>
 → Python • NumPy • SciPy • Matplotlib<br><br>
@@ -391,13 +396,17 @@
 
 <a href="https://github.com/Dreamerol/NUMERICAL-ANALYSIS-OPERATIONS-FUNCTIONS">📐 <b>𝗡𝗨𝗠𝗘𝗥𝗜𝗖𝗔𝗟</b></a><br>
 🔗 NUMERICAL<br>
-→ Python / C++  
+→ Python / C++<br><br>
+
+<!-- ДОБАВЕН ЗА БАЛАНС -->
+<a href="https://github.com/Dreamerol/PROFIT-PREDICTOR-ML">📈 <b>𝗣𝗥𝗢𝗙𝗜𝗧-𝗠𝗟</b></a><br>
+🔗 PROFIT-ML<br>
+→ Python • Scikit-learn • Pandas  
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 
