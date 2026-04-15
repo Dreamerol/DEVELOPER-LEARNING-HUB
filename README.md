@@ -32,10 +32,12 @@
 
 
 
-< align="center">
+<h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-   <em>👉 Click any badge to view repo   CLICK ANY BADGE TO VIEW REPO</em>
+    <strong><em>✨ Click any badge to view project</em></strong>
   </a>
+</h3>
+
 
 
 ---
@@ -562,7 +564,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
+    <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
 
