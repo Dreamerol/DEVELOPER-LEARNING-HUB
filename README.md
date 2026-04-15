@@ -618,7 +618,7 @@ Not just a collection of code, but a continuous engineering process turning idea
 
 🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
 📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">𝗥𝗘𝗦𝗨𝗠𝗘</a> |
-🐙 <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">𝗚𝗜𝗧𝗛𝗨𝗕</a>
+🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
 
 </div>
 
