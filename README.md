@@ -524,6 +524,46 @@
 ---
 
 
+
+<tr>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
+<img src="https://opengraph.githubassets.com/4/Dreamerol/PHYSICS-SIMULATION-SYSTEMS" width="100%"><br>
+<b>⚙️ PHYSICS-SIM</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
+<img src="https://opengraph.githubassets.com/4/Dreamerol/NEURAL-NETWORKS" width="100%"><br>
+<b>🤖 NEURAL-NETS</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM">
+<img src="https://opengraph.githubassets.com/4/Dreamerol/JAVA-CLOJURE-API-SYSTEM" width="100%"><br>
+<b>☕ JAVA-CLOJURE</b>
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO">
+<img src="https://opengraph.githubassets.com/4/Dreamerol/BOOK-CATALOG-APP-DJANGO" width="100%"><br>
+<b>📚 BOOK-CATALOG</b>
+</a>
+</td>
+
+</tr>
+
+
+
+
+
+----
+
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
