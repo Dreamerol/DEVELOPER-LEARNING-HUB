@@ -316,7 +316,7 @@
 <a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a><br><br>
 <a href="https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM"><b>☕ JAVA-CLOJURE</b></a><br><br>
 <a href="https://github.com/Dreamerol/BOOK-CATALOG-APP-DJANGO"><b>📚 BOOK-CATALOG</b></a><br><br>
-<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT"><b>🐧 LINUX-TOOLKIT</b></a><br><br>
+
 
 </td>
 
@@ -326,7 +326,7 @@
 <a href="https://github.com/Dreamerol/PYTHON-WEB-ADVANCED"><b>🌐 PY-WEB</b></a><br><br>
 <a href="https://github.com/Dreamerol/POLYNOMIAL-CALCULATOR-ALGORITHMS"><b>🔢 POLYNOMIAL</b></a><br><br>
 <a href="https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS"><b>📊 PLACEBO-ML</b></a><br><br>
-<a href="https://github.com/Dreamerol/NEURAL-NETWORKS"><b>🤖 NEURAL-NETS</b></a><br><br>
+<a href="https://github.com/Dreamerol/LINUX-PRO-TOOLKIT"><b>🐧 LINUX-TOOLKIT</b></a><br><br>
 
 </td>
 
