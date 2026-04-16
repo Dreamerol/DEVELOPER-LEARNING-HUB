@@ -320,6 +320,21 @@
 
 ---
 
+<div align="center">
+
+<a href="https://github.com/Dreamerol/PORTFOLIO-PROJECTS-CARDS-2026">
+
+  <img
+    src="https://github.com/Dreamerol/Dreamerol/blob/cbd74cafbcd90d21a94d7b7d9130ab6f63900291/ZZZZZZZZZZZZPROFIT7777.jpg?raw=true"
+    alt="Portfolio Cards"
+    width="729"/>
+
+</a>
+
+</div>
+
+---
+
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
