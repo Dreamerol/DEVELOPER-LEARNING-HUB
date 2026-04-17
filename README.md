@@ -386,14 +386,6 @@ Not just a collection of code, but a continuous engineering process turning idea
 ---
 
 
-## 🔥 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦
-
-⚙️ Systems Engineering • 🤖 AI/ML • 🧮 Algorithms • 🌐 Web Systems • 🗄️ Databases • 🎮 Simulation
-
-
----
-
-
 
 <div align="center">
 
