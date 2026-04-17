@@ -352,8 +352,6 @@ Algorithms • Data Structures • APIs • Python • C++ • Java • Clojure 
 
 <div align="center">
 
-## ⚡ 𝗔𝗕𝗢𝗨𝗧
-
 <h2 align="center">
 Data Analyst • Software Engineer • Applied Machine Learning
 </h2>
