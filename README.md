@@ -355,7 +355,7 @@ width="320" height="220" style="object-fit:cover;border-radius:12px;">
 
 <h1 align="center">
   <a href="https://github.com/Dreamerol/RESUME-03-2026" target="_blank">
-    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ FMI
+    👉 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
   </a>
 </h1>
 
