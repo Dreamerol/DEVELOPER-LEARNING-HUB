@@ -5,15 +5,11 @@
 <h2>𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢 𝟮𝟬𝟮𝟲 — 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜</h2>
 
 
+<div align="center">
+  <a href="https://github.com/Dreamerol">
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/93a410d3741bc5d4d65c74ed06e2b8ba8628e4ce/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png" width="100%" />
+  </a>
 </div>
-
-
-![](https://github.com/Dreamerol/Dreamerol/blob/0509f469cd6fcbcd810f35460935aca558fc7361/!_PORT555.JPG)
-
-![](https://github.com/Dreamerol/Dreamerol/blob/93a410d3741bc5d4d65c74ed06e2b8ba8628e4ce/ZZZZZZZZZZZZZZZZZZZZZZZZZOOP.png)
-
-
-
 
 
 <div align="center">
