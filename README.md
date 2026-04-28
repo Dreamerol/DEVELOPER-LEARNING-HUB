@@ -55,6 +55,9 @@
 
 
 
+<br>
+
+
 <h2 align="center">
 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 </h2>
@@ -67,19 +70,11 @@ Python • SQL • Data Analysis • Machine Learning
  ∫ data → systems ✨
 </h3>
 
-<br>
-
-
-
-<h3 align="center">
-  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>✨ Click any badge to view project</em></strong>
-  </a>
-</h3>
-
 
 
 <br>
+
+---
 
 
 <p align="center">
@@ -164,8 +159,8 @@ Python • SQL • Data Analysis • Machine Learning
 </div>
 
 
-<br>
 
+<br>
 
 <div align="center">
 
@@ -173,7 +168,16 @@ Python • SQL • Data Analysis • Machine Learning
 
 </div>
 
+
+<h3 align="center">
+  <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
+    <strong><em>✨ Click any badge to view project</em></strong>
+  </a>
+</h3>
+
+
 <br>
+
 
 
 <div align="center">
