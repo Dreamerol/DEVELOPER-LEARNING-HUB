@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/Dreamerol">
-    <img src="https://github.com/Dreamerol/Dreamerol/blob/e9cabf27152b47f1badb5f26fe5257de0c4fea7e/ZZZZZEDU33.JPG" width="100%" />
+    <img src="https://github.com/Dreamerol/Dreamerol/blob/e052c47f57171d3bc569d8bba71f7b773d691e5d/ZOOP222%20(1).png" width="100%" />
   </a>
 </div>
 
